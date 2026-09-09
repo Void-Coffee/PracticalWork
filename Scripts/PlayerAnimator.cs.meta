@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 64ec5bd9bccd07a4fb647a0ed1066e54
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteRenderer: {instanceID: 0}
+  - idleDown: {fileID: -5707201990640777305, guid: b4258500cbe8b884685bf2c6fb483a5a, type: 3}
+  - idleUp: {fileID: -6213964433643747216, guid: b1ac4294fe24709489750fb32c456a07, type: 3}
+  - idleLeft: {fileID: -6049890696281173695, guid: 85097180695870b4cb7433dac52ecd14, type: 3}
+  - idleRight: {fileID: 6793899615021998247, guid: 03a4c0318ac7556438a19a813496bfd1, type: 3}
+  - walkDown1: {fileID: 3513165901379914293, guid: 5f727176dbacd2349a201ab22955f17a, type: 3}
+  - walkDown2: {fileID: 3925022733221326367, guid: 52d3dde8874f3c5408963b29f35d9ee1, type: 3}
+  - walkUp1: {fileID: -7773634296498430194, guid: a6d19fe47e37e1d459cee5db2f03e70b, type: 3}
+  - walkUp2: {fileID: 7235959466151964440, guid: 2f4afbf46276df245bb7a8a90524ece6, type: 3}
+  - walkLeft1: {fileID: -303976777713108854, guid: 008f68a6dd5c13349bd7188d24a86d02, type: 3}
+  - walkLeft2: {fileID: -4667229528097091529, guid: 9d0fc59a3a69ff14785db416e8dec0f4, type: 3}
+  - walkRight1: {fileID: -2579039409678249372, guid: ed21efd4a6558cd4bbd84bb38b3619d0, type: 3}
+  - walkRight2: {fileID: 4159974276172835219, guid: 6ad244fd0a53c7f4e9c377f7b21ef8b0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
